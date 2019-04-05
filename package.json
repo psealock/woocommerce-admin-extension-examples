@@ -1,0 +1,28 @@
+{
+  "name": "woocommerce-admin-extension-examples",
+  "version": "0.1.0",
+  "description": "Example extensions for WooCommerce Admin",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --watch"
+  },
+  "dependencies": {
+    "@babel/cli": "7.2.3",
+    "@babel/core": "7.4.0",
+    "@babel/plugin-transform-async-to-generator": "7.4.0",
+    "@babel/plugin-transform-react-jsx": "7.3.0",
+    "@babel/runtime-corejs2": "7.4.2",
+    "@wordpress/babel-plugin-import-jsx-pragma": "1.1.2",
+    "@wordpress/babel-plugin-makepot": "2.1.2",
+    "@wordpress/babel-preset-default": "3.0.1",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-eslint": "10.0.1",
+    "babel-loader": "8.0.5",
+    "babel-plugin-transform-class-properties": "6.24.1",
+    "babel-plugin-transform-es2015-template-literals": "6.22.0",
+    "webpack": "^4.29.6"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.0"
+  }
+}
