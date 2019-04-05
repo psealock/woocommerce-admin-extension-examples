@@ -7,7 +7,7 @@ Examples for extending WooCommerce Admin
 Clone this repo in your store's plugins folder.
 
 ```text
-git clone ... 
+git clone git@github.com:psealock/woocommerce-admin-extension-examples.git
 ```
 
 Install dependencies and build Javascript files.
