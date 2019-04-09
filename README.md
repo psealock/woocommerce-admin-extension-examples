@@ -15,3 +15,4 @@ Install dependencies and build Javascript files.
 ```text
 npm install && npm start
 ```
+Head to your Wordpress installation's plugin page and active WooCommerce Admin Extension Examples.
